@@ -1,0 +1,1 @@
+pan,23,s/agua,34,s/anana,56,n/almidon,23,s/sal,34,s/harina,70,n/blanca,70,n/n,70,n/n,7,n/pan,60,s/agua,34,s/arroz,30,s/papa,33,n/anana,32,s/pera,70,s/yogurt,90,n/leche,76,s/
